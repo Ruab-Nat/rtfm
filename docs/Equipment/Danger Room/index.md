@@ -30,4 +30,4 @@ Under Construction
 
 [Grizzly PRO T33300 Track Saw](Track%20Saw.md)
 
-[Central Machinery 12 x 36 Wood Lathe](Wood%20Lathe.md))
+[Central Machinery 12 x 36 Wood Lathe](Wood%20Lathe.md)
